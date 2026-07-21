@@ -1,8 +1,8 @@
 import React from 'react';
-import sr from './office.jpg';
 
 function App() {
     const element = "Office Space";
+    const sr = "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600";
     const jsxatt = <img src={sr} width="25%" height="25%" alt="Office Space" />;
     const ItemName = { Name: "DBS", Rent: 50000, Address: "Chennai" };
     const officeList = [
