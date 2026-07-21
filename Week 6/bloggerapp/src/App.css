@@ -1,0 +1,11 @@
+.st2, .v1, .mystyle1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    padding: 10px;
+    border-top: 4px solid green;
+    margin: 10px;
+}
+h1 {
+    font-size: 1.2em;
+}
